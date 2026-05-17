@@ -1,0 +1,8 @@
+taxon_key,name
+7901,Andrenidae
+4334,Apidae
+7905,Colletidae
+7908,Halictidae
+7911,Megachilidae
+4345,Melittidae
+7916,Stenotritidae

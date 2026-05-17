@@ -1,0 +1,14 @@
+python-dotenv
+huggingface_hub
+smolagents
+requests
+ddgs
+wikipedia-api
+pandas
+numpy
+jupyter
+ipywidgets
+matplotlib
+scikit-learn
+qrcode
+litellm
