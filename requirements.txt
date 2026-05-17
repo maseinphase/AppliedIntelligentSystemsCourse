@@ -11,4 +11,3 @@ ipywidgets
 matplotlib
 scikit-learn
 qrcode
-litellm
